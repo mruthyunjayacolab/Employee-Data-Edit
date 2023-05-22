@@ -18,7 +18,7 @@ const CreateEmp = () => {
     let handlesubmit = (e) => {
         e.preventDefault();
 
-        let emp = { name, email, mobile, gender, course, designation: designation.current.value, date, image }
+        let emp = { name, email, mobile, gender, course, designation, date, image }
 
         fetch(`http://localhost:3009/emp`, {
             method: "POST",

@@ -12,13 +12,13 @@
       "id": 1
     },
     {
-      "image": "https://nettv4u.com/imagine/c/h/r/i/s/t/christian-oliver.jpg",
       "name": "kumaran",
       "email": "kumaran@gmail.com",
-      "mobile": 9865552588,
-      "designation": "Sales",
+      "mobile": "9865552588",
       "gender": "Male",
-      "course": "BE",
+      "designation": "hr",
+      "course": "MCA",
+      "image": "https://nettv4u.com/imagine/c/h/r/i/s/t/christian-oliver.jpg",
       "date": "2023-03-22",
       "id": 3
     },
